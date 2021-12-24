@@ -1,7 +1,7 @@
 #読み込ませたくないフォルダやファイルなど自由に追記してください。
-Binaries
-DerivedDataCache
-Intermediate
-Saved
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*BuiltData*
 #↑UE4の不要データ。
-BuiltData
